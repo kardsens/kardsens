@@ -1,3 +1,6 @@
+i know python
+somewhat
+
 # Contact
 Discord: kards#8455
 
